@@ -1,7 +1,5 @@
 # Day 2 - Introduction to Cybersecurity (Modules 1-3)
 
-Date: June 2026
-
 ## Progress
 
 Completed:
