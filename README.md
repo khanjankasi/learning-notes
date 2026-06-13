@@ -1,16 +1,12 @@
 # Learning Notes
 
-This repository contains my daily learning notes as I progress through Computer Engineering and explore various technologies.
+This repository contains my daily learning notes as I progress through and explore various technologies.
 
 ## Topics Covered
 
 * Git & GitHub
 * Cybersecurity
-* Networking
-* SQL
-* Data Structures & Algorithms
-* Linux
-* Software Development
+* Networking Basics
 
 ## Notes
 
@@ -21,12 +17,6 @@ This repository contains my daily learning notes as I progress through Computer 
 | Day 3  | Cybersecurity |
 | Day 4  | Networking    |
 | Day 5  | Networking    |
-| Day 6  | SQL           |
-| Day 7  | SQL           |
-| Day 8  | DSA           |
-| Day 9  | DSA           |
-| Day 10 | DSA           |
-
 
 ## Goal
 
