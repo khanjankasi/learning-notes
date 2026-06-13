@@ -1,6 +1,8 @@
 # Day 4 - Networking Basics (Modules 1-4)
 
-## Topics Covered
+## Progress
+
+## Topics covered:
 
 ### Module 1 - What is a Network?
 
