@@ -161,5 +161,4 @@ Score:
 # Reflection
 
 This course provided a strong foundation in cybersecurity principles, attack techniques, defensive measures, and career opportunities.
-
 Skills gained will support future learning in networking, system security, and ethical hacking.
